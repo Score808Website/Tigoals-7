@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://tigoals7.score808.eu.org/sitemap.xml
